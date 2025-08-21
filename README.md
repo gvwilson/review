@@ -28,9 +28,9 @@ and that all participants will be required to abide by our [Code of Conduct](./C
 
 FIXME
 
-## Contents
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./intro/)
 5.  [Conclusion](./finale/)
